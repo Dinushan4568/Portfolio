@@ -7,11 +7,11 @@ export const projects = [
     code: 'https://github.com/Dinushan4568/Tic-Tac-Toe'
   },
   {
-    title: 'Portfolio',
-    description: 'Kanban-style task manager with drag-and-drop and offline support.',
-    tags: ['React', 'TypeScript', 'IndexedDB'],
-    demo: 'https://your-demo-url.com',
-    code: 'https://github.com/your-username/taskmate'
+    title: 'Pos For Shoe shop',
+    description: 'Advance shoe shop inventory tracking system',
+    tags: ['PHP', 'Sqlite'],
+    demo: 'https://github.com/Dinushan4568/pos-app',
+    code: 'https://github.com/Dinushan4568/pos-app'
   },
   {
     title: 'Govisaviya',
@@ -26,5 +26,12 @@ export const projects = [
     tags: ['React', 'CSS', 'Vite'],
     demo: 'https://marvelous-gaufre-31af67.netlify.app/',
     code: 'https://github.com/Dinushan4568/Portfolio'
+  },
+  {
+    title: 'Village management System',
+    description: 'This site — responsive for manage village all data for gramasewaka',
+    tags: ['PHP', 'CSS', ],
+    demo: 'https://github.com/Dinushan4568/village_mgmt',
+    code: 'https://github.com/Dinushan4568/village_mgmt'
   }
 ]
